@@ -34,7 +34,7 @@ Exemplo:
 	}
 ```
 
-**6ª FASE:** Solicitar que o usuário informe o valor do prêmio
+**6ª FASE:** Solicitar que o usuário informe o valor do prêmio.
 
 **7ª FASE:** Determinar que 75% do prêmio será para quem acertar as 6 dezenas, 15% para quem acertar 5 dezenas e 10% para quem acertar 4 dezenas.
 
